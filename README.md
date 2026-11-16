@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" alt="Rust Modular Synth & Sequencer Banner" width="100%">
+  <img src="./banner.jpg" alt="Rust Modular Synth & Sequencer Banner" width="100%">
 </div>
 
 # 🎹 Sintetizador e Sequenciador Modular em Rust
